@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "Get Started With Django Part 1: Build a Portfolio App",
+      "body": "Django is a fully featured Python web framework that can be used to build complex web applications. In this tutorial, you’ll jump in and learn Django by example. You will follow the steps to create a fully functioning web application and, along the way, learn some of the most important features of the framework and how they work together.",
+      "author": "Sam",
+      "id": 1
+    },
+    {
+      "title": "Why You Should Learn Django",
+      "body": "First of all, it is written in Python, one of the most readable and beginner-friendly programming languages out there.",
+      "author": "Elisee",
+      "id": 2
+    },
+    {
+      "title": "Documentation is gold",
+      "body": "APIs are pretty much useless without a proper documentation. It’s about your only guidance when using one. Unless the API server is open source, but then searching for endpoints and services directly in the source code can be very hard time consuming. So, before jumping into the implementation, make sure the provider has a reliable documentation.",
+      "author": "Sam",
+      "id": 3
+    }
+  ]
+}
